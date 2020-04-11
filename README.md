@@ -1,2 +1,3 @@
-# Gitment
-blog source and comments.
+# 仓库内容
+
+存放博客评论及博客中引用到的相关素材。
